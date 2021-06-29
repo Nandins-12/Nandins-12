@@ -8,7 +8,7 @@
 
 <hr>
 
-### Sobre mim 📖
+## Sobre mim 📖
 <ul>
     <li>Estudante, focado na area do Desenvolvimento Web 🖥</li>
     <li>Intuito de se tornar um Desenvolvedor Full-Stack no futuro 👨‍🎓</li>
@@ -16,7 +16,7 @@
     <li>Plano de trabalhar inicialmente como Free Lancer, desenvolvendo projetos para comércios e micro-empresas 💵</li>
 </ul>
 
-### Skills
+## Skills
 <div align="center">
     <img style="margin-right: 1em;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img style="margin-right: 1em;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
