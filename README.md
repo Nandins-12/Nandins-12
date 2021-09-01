@@ -7,7 +7,7 @@
 <hr>
 
 ## Sobre mim 📖
-<ul>
+<ul style="background-color: #002046; padding: 12px 40px; border: 1px solid #e4e2e2; border-radius: 5px;">
     <li>Estudante, focado na area do Desenvolvimento Web 🖥</li>
     <li>Intuito de se tornar um Desenvolvedor Full-Stack no futuro 👨‍🎓</li>
     <li>Desenvolvedor Front-End atualmente💻</li>
@@ -15,8 +15,10 @@
 </ul>
 
 ## Skills
-<div align="center">
-    <img style="margin-right: 2em;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img style="margin-right: 2em;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div align="center" style="width: 400px; margin: 0 auto; display: flex; justify-content: space-between;">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
