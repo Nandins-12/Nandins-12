@@ -1,7 +1,7 @@
 ## Prazer eu sou o Fernando Dias! Ou Nandins-12, como preferir!🎈
 <div>
     <img style="margin-right: 2em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandins-12&theme=yeblu&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandins-12&theme=yeblu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandins-12&theme=yebl">
 </div>
 
 <hr>
