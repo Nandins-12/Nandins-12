@@ -22,4 +22,5 @@
     <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" height="50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
